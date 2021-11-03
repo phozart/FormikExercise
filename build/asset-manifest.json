@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FormikExercise/static/css/main.a617e044.chunk.css",
+    "main.js": "/FormikExercise/static/js/main.4bc3b82c.chunk.js",
+    "main.js.map": "/FormikExercise/static/js/main.4bc3b82c.chunk.js.map",
+    "runtime-main.js": "/FormikExercise/static/js/runtime-main.f30d9457.js",
+    "runtime-main.js.map": "/FormikExercise/static/js/runtime-main.f30d9457.js.map",
+    "static/js/2.e3516065.chunk.js": "/FormikExercise/static/js/2.e3516065.chunk.js",
+    "static/js/2.e3516065.chunk.js.map": "/FormikExercise/static/js/2.e3516065.chunk.js.map",
+    "static/js/3.c7255caf.chunk.js": "/FormikExercise/static/js/3.c7255caf.chunk.js",
+    "static/js/3.c7255caf.chunk.js.map": "/FormikExercise/static/js/3.c7255caf.chunk.js.map",
+    "index.html": "/FormikExercise/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/FormikExercise/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e3516065.chunk.js.LICENSE.txt": "/FormikExercise/static/js/2.e3516065.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f30d9457.js",
+    "static/js/2.e3516065.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4bc3b82c.chunk.js"
+  ]
+}
